@@ -1,3 +1,3 @@
-# hello-world2
+# hello-world
 
 My cat's name is Fig.
